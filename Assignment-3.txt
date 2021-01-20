@@ -1,0 +1,9 @@
+1. Create three activities 
+- In your main activity import your profile picture using imageView and two buttons with the labels (Academics, Personal Info) along with the appropriate icons
+  (vector image), similiar to what we did in our session
+- In perosnal_info activity your persnoal information and in Academics_info activity give your academic background using textview (any four fields)
+- using Intents switch between the activites (Main to personal_info, Main to academics_info)
+
+2. The theme of your application should be purplish (the action bar color we discussed in session etc) 
+3. Change the title of 1st activity to main page and 2nd to personal info and 3rd to academics info
+4. Change the app icon using image asset (any appropriate picture) 
