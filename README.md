@@ -76,7 +76,14 @@ Click file -> new -> vector asset
 2. The code is shown below
 3. You can use appropriate padding inside to make it look better
 
+![alt-text](Images/21.PNG)
+
+You can also customize your icon by opening the xml file of icon in your drawable folder and change the height and width of the icon. The tint part is for color, you can add the color over here.
+
 ![alt-text](Images/10.PNG)
+
+here is the image of the button with text and icon 
+
 ![alt-text](Images/11.PNG)
 
 ## THEME
