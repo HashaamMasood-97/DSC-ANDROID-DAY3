@@ -100,7 +100,7 @@ you can change those colors by navigating inside your colors folder as shown bel
 
 ## Set Title
 
-using setTitle() you can change the name of you page which is displayed in action bar
+using setTitle() you can change the name of your page which is displayed in action bar
 
 ![alt-text](Images/15.PNG)
 ![alt-text](Images/16.PNG)
@@ -110,19 +110,19 @@ using setTitle() you can change the name of you page which is displayed in actio
 Here we will see how we can change our icon of the App
 
 Click on file -> new -> Image Asset
-the following interface would apper 
+the following interface would appear 
 
 
 ![alt-text](Images/17.PNG)
 
-CLick on the path and select the image from your pc for icon
+CLick on the path and select the image from your pc for icon,
 you can resize the icon according to different app icons style for e.g (circular, square etc)
 
 ![alt-text](Images/18.PNG)
 
 
 
-## THANKYOU
+## THANK YOU
 
 
 
