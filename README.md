@@ -8,7 +8,7 @@ By Hashaam Masood, Core Team member and Android lead @ DSC-IBA
 # Intent Part
 
 ## Creating A new Activity
-Click on files -> new -> activity -> Empty Activity (or any other activity you want to create
+Click on files -> new -> activity -> Empty Activity (or any other activity you want to create)
 
 ![alt-text](Images/1.png)
 
@@ -21,7 +21,7 @@ After creating the new activity, the code on line 24 and 25 indicates the naviga
 
 ## STACK 
 
-While creating each activity, activity gets in stack and moving from activity to another the stack increases (if finish() is not applied). On pressing back button the the top most activity is loaded and by default the current activity would be finished. Stack is LIFO, last in first out.
+While creating each activity, activity gets in stack and moving from one activity to another the stack increases (if finish() is not applied). On pressing back button the top most recent activity is loaded and by default the current activity would be finished. Stack is LIFO, last in first out.
 
 ![alt-text](Images/Stacks.png)
 
@@ -29,13 +29,13 @@ While creating each activity, activity gets in stack and moving from activity to
 
 ## finish() method
 
-The finish method removes the activity from the stack and the back button won't navigate towards the activity on which the finish() method is applied
+The finish method removes the activity from the stack and the back button won't navigate towards the activity in which the finish() method is applied
 
 ![alt-text](Images/3.PNG)
 
 ## onBackpressed() method
 
-By overriding this default method, you can customize the working on this method. As in the picture it is shown that onbackpressed method working default working is changed to displaying the toast.
+By overriding this default method, you can customize the working on this method. As in the picture it is shown that onbackpressed method default working is changed to displaying the toast.
 
 ![alt-text](Images/4.PNG)
 ![alt-text](Images/5.PNG)
@@ -46,7 +46,7 @@ By overriding this default method, you can customize the working on this method.
 
 steps:
 1. copy the image from your pc
-2. In the res folder, right click drawable and paste the pciture
+2. In the res folder, right click drawable and paste the picture
 3. Inside ImageView use backgroud attribute as shown below to import image
 4. set width and height accrodingly
 
@@ -55,7 +55,7 @@ steps:
 
 ## Background of the Activity
 
-here you can add images or color using the background attribute as show in the image below. It is parent layout(the top most part of xml)
+here you can add images or color using the background attribute as shown in the image below. It is the parent layout(the top most part of xml)
 
 ![alt-text](Images/8.PNG)
 
