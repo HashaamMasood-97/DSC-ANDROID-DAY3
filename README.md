@@ -42,7 +42,7 @@ By overriding this default method, you can customize the working on this method.
 
 # Designing Part
 
-##ImageView
+## ImageView
 
 steps:
 1. copy the image from your pc
