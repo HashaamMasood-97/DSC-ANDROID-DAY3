@@ -40,7 +40,7 @@ By overriding this default method, you can customize the working on this method.
 ![alt-text](Images/4.PNG)
 ![alt-text](Images/5.PNG)
 
-# Desiging Part
+# Designing Part
 
 ##ImageView
 
@@ -53,7 +53,7 @@ steps:
 ![alt-text](Images/6.PNG)
 ![alt-text](Images/7.PNG)
 
-## Backgrounf of the Activity
+## Background of the Activity
 
 here you can add images or color using the background attribute as show in the image below. It is parent layout(the top most part of xml)
 
